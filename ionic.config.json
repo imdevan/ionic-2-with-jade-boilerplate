@@ -1,0 +1,10 @@
+{
+  "name": "MyIonic2Project",
+  "app_id": "d9cadf73",
+  "v2": true,
+  "gulpStartupTasks": [
+    "jade",
+    "sass",
+    "watch"
+  ]
+}
